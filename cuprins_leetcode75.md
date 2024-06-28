@@ -3,7 +3,7 @@ LeetCode Mastery: Solving 30 Essential Problems
 
 https://leetcode.com/studyplan/leetcode-75/
 
-1. Merge Strings Alternately (https://leetcode.com/problems/merge-strings-alternately/) - script facut 1768
+1. Merge Strings Alternately (https://leetcode.com/problems/merge-strings-alternately/) - script facut p1768, filmare facuta Ana p1768 
 
 2. Greatest Common Divisor of Strings (https://leetcode.com/problems/greatest-common-divisor-of-strings/)- script facut 1071
 
