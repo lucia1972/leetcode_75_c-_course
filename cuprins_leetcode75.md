@@ -3,9 +3,9 @@ LeetCode Mastery: Solving 30 Essential Problems
 
 https://leetcode.com/studyplan/leetcode-75/
 
-1. Merge Strings Alternately (https://leetcode.com/problems/merge-strings-alternately/) - script facut p1768, filmare facuta Ana p1768 
+1. Merge Strings Alternately (https://leetcode.com/problems/merge-strings-alternately/) - script facut p1768, recorectat
 
-2. Greatest Common Divisor of Strings (https://leetcode.com/problems/greatest-common-divisor-of-strings/)- script facut 1071
+2. Greatest Common Divisor of Strings (https://leetcode.com/problems/greatest-common-divisor-of-strings/)- script facut 1071, recorectat
 
 3. Kids With the Greatest Number of Candies (https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) script facut 1431
 
