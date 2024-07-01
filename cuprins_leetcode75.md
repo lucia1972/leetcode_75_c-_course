@@ -53,7 +53,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 25. Asteroid Collision (https://leetcode.com/problems/asteroid-collision/?envType=study-plan-v2&envId=leetcode-75) script facut 735
 
-26. . (.) script facut .
+26. Decode String (https://leetcode.com/problems/decode-string/description/?envType=study-plan-v2&envId=leetcode-75) script facut 394
 
 27. . (.) script facut .
 
