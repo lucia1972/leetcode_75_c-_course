@@ -57,7 +57,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 27. Number of Recent Calls (https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75) script facut 933
 
-28. . (.) script facut .
+28. Dota2 Senate (https://leetcode.com/problems/dota2-senate/description/?envType=study-plan-v2&envId=leetcode-75) script facut 649
 
 29. . (.) script facut .
 
