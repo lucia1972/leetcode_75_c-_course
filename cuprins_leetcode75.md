@@ -59,6 +59,96 @@ https://leetcode.com/studyplan/leetcode-75/
 
 28. Dota2 Senate (https://leetcode.com/problems/dota2-senate/description/?envType=study-plan-v2&envId=leetcode-75) script facut 649
 
-29. . (.) script facut .
+29. Delete the Middle Node of a Linked List (https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) script facut 2095
 
-30. . (.) script facut .
+30. Odd Even Linked List (https://leetcode.com/problems/odd-even-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) script facut 328
+
+31. Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) script facut 206.
+
+32. . (.) script facut .
+
+33. . (.) script facut .
+
+34. . (.) script facut .
+
+35. . (.) script facut .
+
+36. . (.) script facut .
+
+37. . (.) script facut .
+
+38. . (.) script facut .
+
+39. . (.) script facut .
+
+40. . (.) script facut .
+
+41. . (.) script facut .
+
+42. . (.) script facut .
+
+43. . (.) script facut .
+
+44. . (.) script facut .
+
+45. . (.) script facut .
+
+46. . (.) script facut .
+
+47. . (.) script facut .
+
+48. . (.) script facut .
+
+49. . (.) script facut .
+
+50. . (.) script facut .
+
+51. (.) script facut .
+
+52. . (.) script facut .
+
+53. . (.) script facut .
+
+54. . (.) script facut .
+
+55. . (.) script facut .
+
+56. . (.) script facut .
+
+57. Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 17
+
+58. Combination Sum III (https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 216 nu este gata trebuie reluata
+
+59. . (.) script facut .
+
+60. . (.) script facut .
+
+61. . (.) script facut .
+
+62. . (.) script facut .
+
+63. . (.) script facut .
+
+64. . (.) script facut .
+
+65. . (.) script facut .
+
+66. . (.) script facut .
+
+67. . (.) script facut .
+
+68. . (.) script facut .
+
+69. . (.) script facut .
+
+70. . (.) script facut .
+
+71. . (.) script facut .
+
+72. . (.) script facut .
+
+73. . (.) script facut .
+
+74. . (.) script facut .
+
+75. . (.) script facut .
