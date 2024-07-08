@@ -69,7 +69,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 33. Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 104
 
-34. . (.) script facut .
+34. Leaf-Similar Trees (https://leetcode.com/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75) script facut 872.
 
 35. . (.) script facut .
 
