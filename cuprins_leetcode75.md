@@ -71,7 +71,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 34. Leaf-Similar Trees (https://leetcode.com/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75) script facut 872.
 
-35. . (.) script facut .
+35. Count Good Nodes in Binary Tree (https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1448.
 
 36. . (.) script facut .
 
