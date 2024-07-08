@@ -67,7 +67,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 32. Maximum Twin Sum of a Linked List (https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 2130.
 
-33. . (.) script facut .
+33. Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 104
 
 34. . (.) script facut .
 
