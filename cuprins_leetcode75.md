@@ -65,13 +65,13 @@ https://leetcode.com/studyplan/leetcode-75/
 
 31. Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) script facut 206.
 
-32. . (.) script facut .
+32. Maximum Twin Sum of a Linked List (https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 2130.
 
-33. . (.) script facut .
+33. Maximum Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 104
 
-34. . (.) script facut .
+34. Leaf-Similar Trees (https://leetcode.com/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75) script facut 872.
 
-35. . (.) script facut .
+35. Count Good Nodes in Binary Tree (https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1448.
 
 36. . (.) script facut .
 
