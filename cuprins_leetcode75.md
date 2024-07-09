@@ -75,7 +75,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 36. Path Sum III (https://leetcode.com/problems/path-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75) script facut .437
 
-37. . (.) script facut .
+37. Longest ZigZag Path in a Binary Tree (https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1372.
 
 38. . (.) script facut .
 
