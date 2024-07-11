@@ -77,7 +77,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 37. Longest ZigZag Path in a Binary Tree (https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1372.
 
-38. . (.) script facut .
+38. Lowest Common Ancestor of a Binary Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 236.
 
 39. . (.) script facut .
 
