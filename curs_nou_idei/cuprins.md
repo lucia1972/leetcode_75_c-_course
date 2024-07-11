@@ -1,4 +1,6 @@
 Cuprins Curs Ana - romana + engleza
+(108 video-uri -> 3/zi -> 15/sapt. (medie))
+Deadline: 1 sept. 2024
 
 1) introducere in algoritmi - definitii, importanta
 L1 - definitia algoritmului, proprietățile algoritmului, schema logica, pseudocod
@@ -6,8 +8,8 @@ L2 - cum rezolvi o problema, structuri de date, subprograme
 
 
 2) structuri de date primitive - vectori
-L1 - operatii de baza pe vectori (parcurgeri, stregeri, inserari de elemente, verificarea unor proprietati)
-L2 - interclasare, cautare binara si probleme cu secvente, vectori caracteristici
+L1 - operatii de baza pe vectori (parcurgeri, stergeri, inserari de elemente, verificarea unor proprietati)
+L2 - metode de sortare, interclasare, cautare binara si probleme cu secvente, vectori caracteristici
 
 
 3) tehnici de manipulare a datelor multidimensionale - matrici
@@ -28,7 +30,6 @@ L2 - functii predefinite cu siruri de caractere
 6) structuri de date liniare
 L1 - lista liniara simplu-inlantuita si dublu-inlantuita
 L2 - stive si cozi
-
 
 7) combinatorica
 L1 - principiile fundamentale in combinatorica
