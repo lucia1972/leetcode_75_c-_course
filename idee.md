@@ -80,7 +80,8 @@ Data Structures & Algorithms in C++
                 Descriere: Se dă o listă înlănțuită și un număr. Ștergeți toate aparițiile acestui număr din listă.
                 Relevanță: Aceasta problemă îți va dezvolta abilitățile de a folosi pointerii pentru a elimina elemente dintr-o structură de date înlănțuită.
                 Link: Ștergerea unui element din listă - Pbinfo
-                Copiere liste (Pbinfo Problem 512)
+                
+                3. Copiere liste (Pbinfo Problem 512)
 
                 Descriere: Se dă o listă înlănțuită. Realizați o copie exactă a acesteia.
                 Relevanță: Îți permite să practici utilizarea pointerilor pentru a crea o copie exactă a unei liste înlănțuite, gestionând corect alocațiile de memorie.
