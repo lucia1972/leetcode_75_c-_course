@@ -2,7 +2,10 @@ Data Structures & Algorithms in C++
 
 1. Introducere în C++ și Algoritmi
 1.1. Fundamentele C++: Variabile, tipuri de date, pointeri, referințe
-    1.1.1. Variabile și Tipuri de Date: 
+    1.1.1. Input și Output: Utilizarea bibliotecii standard de I/O în C++ (iostream) și cum se realizează citirea de la tastatură și scrierea pe ecran.
+
+    
+    1.1.2. Variabile și Tipuri de Date: 
             Introducere în tipurile de date fundamentale (int, float, double, char), variabile și cum se declară și se utilizează acestea în C++. 
             Discuție despre specificitatea C++ cum ar fi tipurile de date extendate (long, long long)
 
@@ -45,7 +48,7 @@ Data Structures & Algorithms in C++
                 Link: Număr palindrom - Pbinfo
 
 
-    1.1.2. Pointeri și Referințe: 
+    1.1.3. Pointeri și Referințe: 
             Explicarea conceptului de pointeri și referințe, două dintre cele mai puternice unelte în C++ care permit manipularea memoriei și a adreselor de memorie. 
             Exemplificarea utilizării pointerilor pentru a accesa și modifica valori stocate în memorie, și diferența dintre pointeri și referințe.
 
@@ -87,26 +90,73 @@ Data Structures & Algorithms in C++
                 Relevanță: Îți permite să practici utilizarea pointerilor pentru a crea o copie exactă a unei liste înlănțuite, gestionând corect alocațiile de memorie.
                 Link: Copiere liste - Pbinfo
 
-    1.1.3. Structuri de Control: 
+    1.1.4. Structuri de Control: 
             Prezentarea instrucțiunilor de control de flux (if, switch, for, while, do-while) și cum acestea sunt utilizate în C++ pentru a dirija executia codului.
+
+            Exerciții de pe LeetCode
+                1. Fizz Buzz (LeetCode Problem 412)
+
+                Descriere: Scrie un program care afișează numerele de la 1 la n. Pentru multiplii de trei afișează „Fizz” în loc de număr și pentru multiplii de cinci afișează „Buzz”. Pentru numere care sunt multipli de amândoi trei și cinci afișează „FizzBuzz”.
+                Relevanță: Acest exercițiu utilizează structurile if și for pentru a implementa o logică condițională simplă și repetitivă.
+                Link: Fizz Buzz - LeetCode
+                
+               2. Valid Parentheses (LeetCode Problem 20)
+
+                Descriere: Dat fiind un șir care conține doar caracterele '(', ')', '{', '}', '[' și ']', determină dacă șirul de intrare este valid.
+                Relevanță: Folosește structuri de control precum for și if pentru a verifica și gestiona condiții complexe.
+                Link: Valid Parentheses - LeetCode
+                
+                3. Climbing Stairs (LeetCode Problem 70)
+
+                Descriere: Trebuie să urci o scară care are n trepte. Poți face fie un pas de o treaptă, fie de două trepte. Câte moduri unice există de a ajunge în vârf?
+                Relevanță: Deși problema este clasică pentru recursivitate și programare dinamică, implementarea ei necesită înțelegerea și utilizarea buclelor for sau while.
+                Link: Climbing Stairs - LeetCode
+                
+            Exerciții de pe Pbinfo
+                1. Număr Pătrat Perfect (Pbinfo Problem 100)
+
+                Descriere: Se dă un număr n. Să se determine dacă n este pătrat perfect.
+                Relevanță: Utilizează bucla for sau while pentru a verifica dacă un număr este pătrat perfect.
+                Link: Număr Pătrat Perfect - Pbinfo
+                
+                2. Divizori (Pbinfo Problem 4)
+
+                Descriere: Se dă un număr natural n. Să se afișeze toți divizorii acestuia.
+                Relevanță: Perfect pentru practicarea buclelor for în combinatie cu instrucțiunile condiționale if pentru a identifica divizorii unui număr.
+                Link: Divizori - Pbinfo
+                
+                3. Suma Divizorilor (Pbinfo Problem 330)
+
+                Descriere: Se dă un număr n. Să se calculeze suma divizorilor lui n.
+                Relevanță: O altă ocazie excelentă de a folosi for și if pentru a acumula suma sub anumite condiții.
+                Link: Suma Divizorilor - Pbinfo
+
+
     
-    1.1.4. Input și Output: Utilizarea bibliotecii standard de I/O în C++ (iostream) și cum se realizează citirea de la tastatură și scrierea pe ecran.
+
+
+
+
 
 Introducere în algoritmi: Definiții, importanță, aplicații
     Definiții și Importanță: 
         Ce sunt algoritmii, de ce sunt importanți în programare și în rezolvarea problemelor. 
         Discuții despre cum algoritmii eficienți pot îmbunătăți performanța aplicațiilor.
     
+
     Aplicații ale Algoritmilor: 
         Exemple de aplicatii reale ale algoritmilor în software engineering, știința datelor, inteligență artificială, etc.
+
 
 Analiza complexității: Big O, Big Theta, Big Omega
     Ce Este Analiza Complexității: 
         Introducere în conceptul de analiză a complexității algoritmilor și de ce este crucială în alegerea soluției optime.
-    
+
+
     Notații Big O, Big Theta, Big Omega: 
         Explicarea acestor notații și cum sunt folosite pentru a descrie eficiența algoritmilor în funcție de timp și spațiu. 
         Exemplificare cu algoritmi simpli pentru o înțelegere mai bună.
+
 
     Analiza Complexității Spațiale și Temporale: Cum să evaluăm complexitatea spațială și temporală a diferitelor algoritmi, cu exemple practice.
 
