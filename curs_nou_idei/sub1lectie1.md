@@ -54,7 +54,7 @@ ALGORITM INTERCLASARE VECTORI (r,lr,q,lq)
         SFÂRȘIT DACA
     SFÂRȘIT PENTRU
 ```
-explicatii la bucla for din algoritm
+(explicatii la bucla for din algoritm)
 Daca elementul curent din primul vector parcurs cu contorul `i` este mai mic decat elementul curent din vectorul secund parcurs cu `j`, (`r[i] < q[j]>`) atunci se ia elementul din vectorul `r` si se aseaza in `result` si se incrementeaza `i`. Altfel se ia elementul din vectorul `q` si se incrementeaza `j`. Deci se ia intotdeaua cel mai mic dintre elemente si se incrementeaza contorul corespunzator vectorului care a donat element in `result`.
 
 În concluzie această lecție a explorat ce sunt algoritmii, de ce sunt importanți, proprietățile pe care trebuie să le aibă, și am văzut cum putem folosi schema logică și pseudocodul pentru a planifica și a descrie algoritmi. În următoarea lecție, vom discuta despre cum să rezolvăm probleme folosind structuri de date și subprograme.
