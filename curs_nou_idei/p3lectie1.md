@@ -67,124 +67,14 @@ Odată ce găsim un divizor, setăm `f` la `1` și intrăm în altă buclă pent
 După numărarea de câte ori `d` împarte `number`, înmulțim `contorDiv` cu `f`. Acest proces asigură că numărăm toți divizorii lui `number`.
 
 De exemplu, daca `number = 24`. Din matematica stim ca 24 = 2^3 * 3.
-Deci daca am determinat ca 24 se divide la 2, impartim de 3 ori cu 2 pentru ca atat se poate.
-Apoi determinam ca urmatorul divizor este 3. Impartim si cu el si de fapt ajungem la sfarsit.
-Deci am realizat 3 impartiri cu 2 
+Deci daca am determinat ca 24 se divide la 2, impartim de 3 ori cu 2 pentru ca atat se poate. Factorul `f` ajunge deci la 4. `contorDiv` ajunge tot 4.
+Apoi determinam ca urmatorul divizor este 3. Repunem factorul `f` pe 1. 
+Impartim cu 3 o singura data si de fapt ajungem la sfarsit. Factorul `f` ajunge deci la 2. In final `contorDiv = 8`.
+Procesul se incheie si se returneaza valoarea gasita 8.
 
-În cele din urmă, după ieșirea din bucle, r va conține numărul total de divizori ai lui o. Apoi scoatem această valoare.
-
+Functia principala a programului, `int main(){}` contine doar citirea unei valori de tip long `n` si tiparirea raspunsului dat de apelul functiei `nrDiv(ogl(n))`. 
+Instrucțiunea `cout << nrDiv(ogl(n));` inversează cifrele numărului `n`și apoi calculează și afișează numărul de divizori ai numărului inversat. Acest proces combinat demonstrează cum putem utiliza funcții pentru a realiza operațiuni complexe într-un mod modular și eficient în C++.
 
 Pentru a rezuma, această soluție implică inversarea cifrelor numărului dat n și apoi calcularea numărului de divizori ai numărului inversat. Pașii cheie includ inversarea numărului prin extragerea și adăugarea cifrelor și găsirea numărului de divizori folosind o abordare de factorizare. Prin implementarea sistematică a acestor pași, ne asigurăm că soluția este atât eficientă, cât și exactă. Rezultatul final este numărul total de divizori ai numărului inversat, oferind rezultatul dorit pentru problemă. Această metodă nu numai că garantează corectitudinea, dar respectă și constrângerile problemei, ceea ce o face o alegere robustă pentru aplicații practice.
 
-Structura generală a codului
-Codul include două biblioteci standard C++:
-
-#include <iostream>: pentru operațiuni de intrare și ieșire.
-#include <cmath>: pentru operațiuni matematice (chiar dacă nu este utilizată în mod direct în codul furnizat).
-Programul definește următoarele componente:
-
-Variabila globală long n pentru a stoca numărul citit de la utilizator.
-Funcția ogl(long n) pentru a inversa cifrele unui număr.
-Funcția nrDiv(long n) pentru a calcula numărul de divizori ai unui număr.
-Funcția main() pentru a citi un număr, a inversa cifrele acestuia și a calcula numărul de divizori ai numărului inversat.
-Funcția ogl(long n)
-Funcția ogl are rolul de a inversa cifrele unui număr n. Iată cum funcționează aceasta:
-
-cpp
-Copy code
-long ogl(long n) {
-    long o = 0;
-    while (n) {
-        o = o * 10 + n % 10;
-        n /= 10;
-    }
-    return o;
-}
-Inițializare: Se declară o variabilă o inițializată la 0. Aceasta va stoca numărul inversat.
-Bucla while: Atâta timp cât n nu este zero:
-o = o * 10 + n % 10; Adaugă ultima cifră a lui n la o.
-n /= 10; Elimină ultima cifră a lui n.
-Returnare: Funcția returnează numărul o, care conține cifrele lui n în ordine inversă.
-Funcția nrDiv(long n)
-Funcția nrDiv calculează numărul de divizori ai unui număr n. Aceasta este mai complexă și implică factorii primi ai numărului. Iată cum funcționează:
-
-cpp
-Copy code
-long nrDiv(long n) {
-    long r = 1, d = 2, f;
-    while (n > 1) {
-        while (d * d <= n && n % d) d++;
-        if (d * d > n) d = n;
-        f = 1;
-        while (n % d == 0) { f++; n /= d; }
-        r *= f;
-    }
-    return r;
-}
-Inițializare: Se declară variabilele r (numărul de divizori) inițializată la 1, d (divizorul curent) inițializată la 2, și f (numărul de factori curenți) fără inițializare.
-Bucla exterioară while (n > 1): Continuă cât timp n este mai mare decât 1.
-Bucla interioară while (d * d <= n && n % d): Crește d până găsește un divizor al lui n sau până când d pătratul său depășește n.
-Verificare și actualizare d: Dacă d nu divide n, atunci d devine n.
-Factorizare: Inițializează f la 1. Cât timp d divide n, incrementează f și împarte n la d.
-Actualizare r: Multiplică r cu f pentru a actualiza numărul total de divizori.
-Returnare: Funcția returnează r, care conține numărul de divizori ai lui n.
-Funcția main()
-Funcția principală main citește un număr, inversează cifrele acestuia și afișează numărul de divizori ai numărului inversat:
-
-cpp
-Copy code
-int main() {
-    cin >> n;
-    cout << nrDiv(ogl(n));
-    return 0;
-}
-Citire: Utilizatorul introduce un număr n.
-Inversare și calcul divizori: Funcția ogl(n) inversează cifrele lui n, iar nrDiv calculează numărul de divizori ai numărului inversat.
-Afișare: Rezultatul este afișat pe ecran.
-Analiza detaliată
-Inversarea cifrelor:
-
-Procesul de inversare a cifrelor unui număr este util în multe probleme de programare și algoritmică. În acest caz, este un pas intermediar necesar pentru calcularea numărului de divizori ai numărului inversat.
-Calculul numărului de divizori:
-
-Calcularea numărului de divizori implică determinarea factorilor primi ai numărului. Aceasta este o metodă eficientă pentru a găsi toți divizorii unui număr. Este utilă în probleme de teorie a numerelor și criptografie.
-Complexitate:
-
-Inversarea cifrelor: Operația de inversare are o complexitate de 
-𝑂
-(
-log
-⁡
-10
-𝑛
-)
-O(log 
-10
-​
- n), deoarece numărul de cifre este proporțional cu logaritmul numărului în baza 10.
-Calculul divizorilor: Factorizarea unui număr are o complexitate aproximativă de 
-𝑂
-(
-𝑛
-)
-O( 
-n
-​
- ), deoarece verificăm divizorii până la rădăcina pătrată a numărului.
-Exemple de rulare
-Pentru a înțelege mai bine funcționarea programului, să considerăm câteva exemple:
-
-Exemplu 1:
-
-Input: 123
-Inversare: 321
-Divizori: 1, 3, 107, 321 (4 divizori)
-Output: 4
-Exemplu 2:
-
-Input: 456
-Inversare: 654
-Divizori: 1, 2, 3, 6, 109, 218, 327, 654 (8 divizori)
-Output: 8
-Concluzie
-Acest program demonstrează cum se pot combina mai multe tehnici algoritmice pentru a rezolva o problemă complexă. Prin divizarea problemei în subprobleme mai mici și folosirea funcțiilor, codul devine mai clar și mai ușor de întreținut. Funcțiile ogl și nrDiv ilustrează modul în care operațiile de bază pot fi combinate pentru a realiza sarcini mai complexe, iar structura modulară permite reutilizarea și testarea independentă a fiecărei componente. Aceasta este o abordare esențială în dezvoltarea de software eficient și robust.
+Acest algoritm exemplifică o abordare eficientă și elegantă pentru rezolvarea unei probleme complexe prin utilizarea funcțiilor specializate. Inversarea cifrelor unui număr și calcularea numărului de divizori sunt realizate prin subalgoritmi bine definiți, ceea ce face codul ușor de înțeles și de gestionat. Această metodă modulară este esențială pentru scrierea de programe robuste și flexibile în orice limbaj de programare.
