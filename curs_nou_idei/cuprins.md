@@ -41,12 +41,12 @@ L1 - fundamentele tehnicii Greedy - conceptul de Greedy
 L2 - proprietati si caracteristici
 
 
-9) algoritmul de backtracking
+9) tehnica backtracking
 L1 - definitia backtrackingului, mecanismul de functionare
 L2 - diferenta intre backtracking si alte tehnici
 
 
-10) algoritmi de grafuri
+10) algoritmi pe grafuri
 L1 - fundamentele grafurilor si reprezentarile lor
 L2 - algoritmi avansati pentru grafuri
 
@@ -71,6 +71,6 @@ L1 - fundamentele programarii dinamice
 L2 - tehnici de baza in programarea dinamica
 
 
-15) probleme diverse - probleme de concurs (optionale)
+15) probleme challanging
 L1 - 1 problema din concurs
 L2 - 1 problema “hard” LeetCode

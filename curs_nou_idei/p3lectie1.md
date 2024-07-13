@@ -3,10 +3,7 @@ Sa vedem impreuna cati divizori are oglinditul unui numar dat.
 
 ```cpp
 #include <iostream>
-#include <cmath>
 using namespace std;
-
-long n;
 
 long ogl(long number){
     long o = 0;
@@ -30,6 +27,7 @@ long nrDiv(long number) {
 }
 
 int main() {
+    long n;
     cin>>n;
     cout<<nrDiv(ogl(n));
 
