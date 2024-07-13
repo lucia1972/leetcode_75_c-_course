@@ -45,7 +45,7 @@ int main() {
 }
 ```
 
-Pentru un numar dat `n` pe care l-am citit in programul principal, apelez functia `fizzBuzz(n)` care va realiza de fapt intregul sir de modificari pe care le cere cerinta problemei.
+Pentru un numar dat `n` pe care l-am citit in programul principal, apelez functia `fizzBuzz(n)` care va realiza de fapt intregul sir de modificari pe care le cere problemei.
 Funcția `fizzBuzz` scrisa primește un parametru întreg local `number` și nu returnează nimic `void`. Intr-o bucla repetitiva `for` iterează de la 1 la `number` și aplică regulile din cerinta:
 --- Dacă `i` este divizibil atât cu 3 cât și cu 5 `i % 3 == 0 && i % 5 == 0` afișează `FizzBuzz`.
 --- Dacă `i` este divizibil doar cu 3 `i % 3 == 0` afișează `Fizz`.
@@ -53,4 +53,12 @@ Funcția `fizzBuzz` scrisa primește un parametru întreg local `number` și nu 
 --- Dacă `i` nu este divizibil nici cu 3, nici cu 5, se va afisa valoarea lui `i`.
 Rezultatele sunt afișate pe aceeași linie, separate de un spațiu `" "`.
 
-Algoritmul a fost implementat simplu, fara a folosi structuri de date de tip vector.
+Pentru `n = 15`, programul va afisa `1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz`.
+
+In concluzie, algoritmul `fizzBuzz` este un exemplu simplu și eficient pentru a demonstra utilizarea buclelor și a instrucțiunilor condiționale în C++. Prin afișarea directă a rezultatelor în funcția `fizzBuzz`, evităm utilizarea structurilor de date complexe, făcând codul mai ușor de înțeles și de întreținut. Această abordare modulară este esențială pentru scrierea de cod curat și eficient.
+
+
+
+
+
+
