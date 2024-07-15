@@ -81,17 +81,17 @@ https://leetcode.com/studyplan/leetcode-75/
 
 39. Binary Tree Right Side View (https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=study-plan-v2&envId=leetcode-75) script facut 199.
 
-40. . (.) script facut .
+40. Maximum Level Sum of a Binary Tree (https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1161.
 
-41. . (.) script facut .
+41. Search in a Binary Search Tree (https://leetcode.com/problems/search-in-a-binary-search-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 700.
 
-42. . (.) script facut .
+42. Delete Node in a BST (https://leetcode.com/problems/delete-node-in-a-bst/description/?envType=study-plan-v2&envId=leetcode-75) script facut 450.
 
-43. . (.) script facut .
+43. Keys and Rooms (https://leetcode.com/problems/keys-and-rooms/description/?envType=study-plan-v2&envId=leetcode-75) script facut 841.
 
-44. . (.) script facut .
+44. Numbers of Provinces (https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2&envId=leetcode-75) script facut 547.
 
-45. . (.) script facut .
+45. Reorder Routes to Make All Paths Lead to the City Zero (https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1466.
 
 46. . (.) script facut .
 
