@@ -99,15 +99,15 @@ https://leetcode.com/studyplan/leetcode-75/
 
 48. Rotting Oranges (https://leetcode.com/problems/rotting-oranges/description/?envType=study-plan-v2&envId=leetcode-75) script facut 994.
 
-49. . (.) script facut .
+49. Kth Largest Element in an Array (https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=study-plan-v2&envId=leetcode-75) script facut 215.
 
-50. . (.) script facut .
+50. Smallest Number in Infinite Set (https://leetcode.com/problems/smallest-number-in-infinite-set/description/?envType=study-plan-v2&envId=leetcode-75a) script facut 2336.
 
-51. (.) script facut .
+51. Maximum Subsequence Score (https://leetcode.com/problems/maximum-subsequence-score/description/?envType=study-plan-v2&envId=leetcode-75) script facut 2542.
 
-52. . (.) script facut .
+52. Total Cost to Hire K Workers (https://leetcode.com/problems/total-cost-to-hire-k-workers/description/?envType=study-plan-v2&envId=leetcode-75) script facut 2462.
 
-53. . (.) script facut .
+53. Guess Number Higher or Lower (https://leetcode.com/problems/guess-number-higher-or-lower/description/?envType=study-plan-v2&envId=leetcode-75) script facut 374.
 
 54. . (.) script facut .
 
