@@ -95,7 +95,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 46. Evaluate Division (https://leetcode.com/problems/evaluate-division/description/?envType=study-plan-v2&envId=leetcode-75) script facut 399.
 
-47. . (.) script facut .
+47. Nearest Exit from Entrance in Maze (https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1926.
 
 48. . (.) script facut .
 
