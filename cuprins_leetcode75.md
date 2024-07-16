@@ -97,7 +97,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 47. Nearest Exit from Entrance in Maze (https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1926.
 
-48. . (.) script facut .
+48. Rotting Oranges (https://leetcode.com/problems/rotting-oranges/description/?envType=study-plan-v2&envId=leetcode-75) script facut 994.
 
 49. . (.) script facut .
 
