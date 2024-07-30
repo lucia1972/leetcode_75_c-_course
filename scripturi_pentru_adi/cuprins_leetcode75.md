@@ -119,7 +119,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 58. Combination Sum III (https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 216 nu este gata trebuie reluata
 
-59. .  (.) script facut .
+59. . (.) script facut .
 
 60. . (.) script facut .
 
