@@ -121,19 +121,19 @@ https://leetcode.com/studyplan/leetcode-75/
 
 59. N-th Tribonacci Number (https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1137.
 
-60. . (.) script facut .
+60. Min Cost Climbing Stairs (https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75) script facut 746.
 
-61. . (.) script facut .
+61. House Robber (https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=leetcode-75) script facut 198.
 
-62. . (.) script facut .
+62. Domino and Tromino Tiling (https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75) script facut 798.
 
-63. . (.) script facut .
+63. Unique Paths (https://leetcode.com/problems/unique-paths/description/?envType=study-plan-v2&envId=leetcode-75) script facut 62.
 
-64. . (.) script facut .
+64. Longest Common Subsequence (https://leetcode.com/problems/longest-common-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1143.
 
-65. . (.) script facut .
+65. Best Time to Buy and Sell Stock with Transaction Fee (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/?envType=study-plan-v2&envId=leetcode-75) script facut 714.
 
-66. . (.) script facut .
+66. Edit Distance (https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=leetcode-75) script facut 72.
 
 67. . (.) script facut .
 
