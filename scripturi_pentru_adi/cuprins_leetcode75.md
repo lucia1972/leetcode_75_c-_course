@@ -109,9 +109,9 @@ https://leetcode.com/studyplan/leetcode-75/
 
 53. Guess Number Higher or Lower (https://leetcode.com/problems/guess-number-higher-or-lower/description/?envType=study-plan-v2&envId=leetcode-75) script facut 374.
 
-54. Successful Pairs of Spells and Potions (https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75) script facut 2300.
+54. Successful Pairs of Spells and Potions ([.](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75)) script facut 2300.
 
-55. Find Peak Element (https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=leetcode-75) script facut 162.
+55. Find Peak Element ([.](https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=leetcode-75)) script facut 162.
 
 56. Koko Eating Banana (https://leetcode.com/problems/koko-eating-bananas/description/?envType=study-plan-v2&envId=leetcode-75) script facut 875.
 
@@ -119,7 +119,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 58. Combination Sum III (https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 216 nu este gata trebuie reluata
 
-59. N-th Tribonacci Number (https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1137.
+59. . (.) script facut .
 
 60. . (.) script facut .
 
