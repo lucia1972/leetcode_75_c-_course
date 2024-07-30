@@ -125,7 +125,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 61. House Robber (https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=leetcode-75) script facut 198.
 
-62. Domino and Tromino Tiling (https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75) script facut 798.
+62. Domino and Tromino Tiling (https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75) script facut 790.
 
 63. Unique Paths (https://leetcode.com/problems/unique-paths/description/?envType=study-plan-v2&envId=leetcode-75) script facut 62.
 
