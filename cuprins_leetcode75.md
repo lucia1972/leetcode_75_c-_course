@@ -137,7 +137,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 67. Counting Bits (https://leetcode.com/problems/counting-bits/description/?envType=study-plan-v2&envId=leetcode-75) script facut 338.
 
-68. . (.) script facut .
+68. Single Number (https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 136.
 
 69. . (.) script facut .
 
