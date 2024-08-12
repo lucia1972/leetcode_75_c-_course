@@ -121,7 +121,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 57. Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 17
 
-58. Combination Sum III (https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 216 nu este gata trebuie reluata
+58. Combination Sum III (https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 216.
 
 59. N-th Tribonacci Number (https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1137.
 
