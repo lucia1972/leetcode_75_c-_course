@@ -135,7 +135,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 66. Edit Distance (https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=leetcode-75) script facut 72.
 
-67. . (.) script facut .
+67. Counting Bits (https://leetcode.com/problems/counting-bits/description/?envType=study-plan-v2&envId=leetcode-75) script facut 338.
 
 68. . (.) script facut .
 
