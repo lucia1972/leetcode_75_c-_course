@@ -139,7 +139,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 68. Single Number (https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 136.
 
-69. . (.) script facut .
+69. Minimum Flips to Make a OR b Equal to c (https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1318.
 
 70. . (.) script facut .
 
