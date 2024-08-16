@@ -147,8 +147,8 @@ https://leetcode.com/studyplan/leetcode-75/
 
 72. Non-overlapping Intervals (https://leetcode.com/problems/non-overlapping-intervals/?envType=study-plan-v2&envId=leetcode-75) script facut 435.
 
-73. . (.) script facut .
+73. Minimum Number of Arrows to Burst Balloons (https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=leetcode-75) script facut 452.
 
-74. . (.) script facut .
+74. Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/?envType=study-plan-v2&envId=leetcode-75) script facut 739.
 
-75. . (.) script facut .
+75. Online Stock Span (https://leetcode.com/problems/online-stock-span/?envType=study-plan-v2&envId=leetcode-75) script facut 901.
