@@ -143,7 +143,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 70. Implement Trie (Prefix Tree) (https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 208.
 
-71. . (.) script facut .
+71. Search Suggestions System (https://leetcode.com/problems/search-suggestions-system/?envType=study-plan-v2&envId=leetcode-75) script facut 1268.
 
 72. . (.) script facut .
 
