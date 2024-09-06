@@ -121,7 +121,7 @@ https://leetcode.com/studyplan/leetcode-75/
 
 57. Letter Combinations of a Phone Number (https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 17
 
-58. Combination Sum III (https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 216 nu este gata trebuie reluata
+58. Combination Sum III (https://leetcode.com/problems/combination-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75.) script facut 216.
 
 59. N-th Tribonacci Number (https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1137.
 
@@ -139,13 +139,13 @@ https://leetcode.com/studyplan/leetcode-75/
 
 66. Edit Distance (https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=leetcode-75) script facut 72.
 
-67. . (.) script facut .
+67. Counting Bits (https://leetcode.com/problems/counting-bits/description/?envType=study-plan-v2&envId=leetcode-75) script facut 338.
 
-68. . (.) script facut .
+68. Single Number (https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=leetcode-75) script facut 136.
 
-69. . (.) script facut .
+69. Minimum Flips to Make a OR b Equal to c (https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/?envType=study-plan-v2&envId=leetcode-75) script facut 1318.
 
-70. . (.) script facut .
+70. Implement Trie (Prefix Tree) (https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 208.
 
 71. . (.) script facut .
 
