@@ -3,9 +3,13 @@ LeetCode Mastery: Solving 30 Essential Problems
 
 https://leetcode.com/studyplan/leetcode-75/
 
-1. Merge Strings Alternately (https://leetcode.com/problems/merge-strings-alternately/) - script facut p1768, recorectat
+1. Merge Strings Alternately (https://leetcode.com/problems/merge-strings-alternately/) - script facut p1768,
+--- refacut scriptul in romana
+--- facuta animatia pentru predare, mai trebuie animatia pentru exemple
 
 2. Greatest Common Divisor of Strings (https://leetcode.com/problems/greatest-common-divisor-of-strings/)- script facut 1071, recorectat
+--- refacut scriptul in romana
+--- facuta animatia pentru exemple, mai trebuie animatia pentru predare
 
 3. Kids With the Greatest Number of Candies (https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) script facut 1431
 
@@ -143,12 +147,12 @@ https://leetcode.com/studyplan/leetcode-75/
 
 70. Implement Trie (Prefix Tree) (https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=leetcode-75) script facut 208.
 
-71. Search Suggestions System (https://leetcode.com/problems/search-suggestions-system/?envType=study-plan-v2&envId=leetcode-75) script facut 1268.
+71. . (.) script facut .
 
-72. Non-overlapping Intervals (https://leetcode.com/problems/non-overlapping-intervals/?envType=study-plan-v2&envId=leetcode-75) script facut 435.
+72. . (.) script facut .
 
-73. Minimum Number of Arrows to Burst Balloons (https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=leetcode-75) script facut 452.
+73. . (.) script facut .
 
-74. Daily Temperatures (https://leetcode.com/problems/daily-temperatures/description/?envType=study-plan-v2&envId=leetcode-75) script facut 739.
+74. . (.) script facut .
 
-75. Online Stock Span (https://leetcode.com/problems/online-stock-span/?envType=study-plan-v2&envId=leetcode-75) script facut 901.
+75. . (.) script facut .
