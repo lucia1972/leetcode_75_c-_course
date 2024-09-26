@@ -11,48 +11,29 @@ This course has over **5 hours** of in-depth content, meticulously designed to c
 
 Here’s a more detailed look at the curriculum:
 
-#### **1. Array Manipulation**
-   - **Two-Pointer Techniques**
-   - **Sliding Window**
-   - **Kadane’s Algorithm**
+### 1. Arrays / Strings
+### 2. Two Pointers
+### 3. Sliding Window
+### 4. Prefix Sum
+### 5. Hash Maps / Sets
+### 6. Stacks
+### 7. Queue
+### 8. Linked Lists
+### 9. Binary Tree - DFS
+### 10. Binary Tree - BFS
+### 11. Binary Search Tree
+### 12. Graphs - DFS
+### 13. Graphs - BFS
+### 14. Heap / Priority Queue
+### 15. Binary Search
+### 16. Backtracking
+### 17. DP - 1D (ONE DIMENSION DYNAMIC PROGRAMMING)
+### 18. DP - Multidimensional (Multidimensional dynamic programming)
+### 19. Bit Manipulation
+### 20. Trie
+### 21. Intervals
+### 22. Monotonic Stack
 
-#### **2. Hash maps**
-   - **Hash Maps and Hash Sets**
-   - **Collision Handling**
-
-#### **3. Linked Lists**
-   - **Reversal of Linked Lists**
-   - **Cycle Detection**
-   - **Merging and Splitting**
-
-#### **4. Dynamic Programming (DP)**
-   - **Memoization and Tabulation**
-   - **State Transition Diagrams**
-
-#### **5. Binary Trees & Binary Search Trees**
-   - **Tree Traversal**
-   - **Inserting and Deleting Nodes**
-   - **Balanced Trees and AVL Trees**
-
-#### **6. Graphs**
-   - **Breadth-First Search (BFS)**
-   - **Depth-First Search (DFS)**
-   - **Topological Sorting**
-
-#### **7. Backtracking**
-   - **N-Queens Problem**
-   - **Subsets and Permutations**
-   - **Sudoku Solver**
-
-#### **8. Greedy Algorithms**
-   - **Interval Scheduling**
-   - **Activity Selection Problem**
-   - **Huffman Coding**
-
-#### **9. Binary Search**
-   - **Classic Binary Search**
-   - **Search Variations**
-   - **Application in Range Queries**
 
 ---
 
