@@ -9,7 +9,7 @@ In this course, I will guide you through solving each problem in LeetCode's "75-
 
 This course has over **5 hours** of in-depth content, meticulously designed to cover each problem on the **exact 75-problem list from LeetCode**. We’ll explore various fundamental and advanced topics essential for algorithmic thinking and coding interview preparation.
 
-Here’s a more detailed look at the curriculum:
+Take a better look at the titles we will cover in this course:
 
 ### 1. Arrays / Strings
 ### 2. Two Pointers
