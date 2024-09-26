@@ -39,7 +39,7 @@ Take a better look at the titles we will cover in this course:
 
 ### **What to Expect**
 
-Our approach is highly practical and designed to simplify even the most complex problems. We’ll not only solve each problem but also guide you through the **reasoning process** behind the solution. This will help you not just memorize algorithms but truly **understand the logic** that can be applied to future challenges.
+Our approach is highly practical and designed to simplify even the most complex problems. We’ll not only solve each problem but also guide you through the **reasoning process** behind the solution. This will help you to not just practice algorithms but truly **understand the logic** that can be applied to future challenges.
 
 If you’re interested in learning how these problems can be solved in other programming languages, this course is part of a larger series where we tackle the same set of problems using Python, JavaScript, and more. Stay connected with us on social media or join our Discord community for future updates, exclusive content, and lively discussions.
 
