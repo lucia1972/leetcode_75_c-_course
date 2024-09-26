@@ -1,59 +1,58 @@
 **Welcome to the Course!**
 
-Hi, I’m Ana Negreanu-Maior, and I’ll be your instructor throughout this exciting journey.
-
-This course is designed to help you tackle the renowned "75-problem challenge" on LeetCode, solving each problem step-by-step in **C++**. Every solution is **beginner-friendly** and **thoroughly explained**, making it accessible to learners of all levels.
+Hello, I’m Ana Negreanu-Maior, and I’ll be your instructor throughout this exciting journey. I am part of the LAN Academy team, along with Lucia and Adrian Negreanu-Maior.
+In this course, I will guide you through solving each problem in LeetCode's "75-problem challenge" in C++. This course is beginner-friendly, as each solution is thoroughly explained and broken down into steps, so that each algorithm is easier to learn.
 
 ---
 
 ### **Course Length and Structure**
 
-This course spans over **5 hours** of in-depth content, meticulously designed to cover each problem on the **exact 75-problem list from LeetCode**. We’ll explore various fundamental and advanced topics essential for algorithmic thinking and coding interview preparation.
+This course has over **5 hours** of in-depth content, meticulously designed to cover each problem on the **exact 75-problem list from LeetCode**. We’ll explore various fundamental and advanced topics essential for algorithmic thinking and coding interview preparation.
 
 Here’s a more detailed look at the curriculum:
 
 #### **1. Array Manipulation**
-   - **Two-Pointer Techniques**: Mastering problems like removing duplicates from sorted arrays and container-with-most-water.
-   - **Sliding Window**: Efficiently handling problems like maximum subarray sums and substring-based challenges.
-   - **Kadane’s Algorithm**: For solving maximum subarray problems with ease.
+   - **Two-Pointer Techniques**
+   - **Sliding Window**
+   - **Kadane’s Algorithm**
 
-#### **2. Hashing**
-   - **Hash Maps and Hash Sets**: Techniques to tackle problems like two-sum, longest substring without repeating characters, and more.
-   - **Collision Handling**: How hashing helps optimize solutions in problems like group anagrams.
+#### **2. Hash maps**
+   - **Hash Maps and Hash Sets**
+   - **Collision Handling**
 
 #### **3. Linked Lists**
-   - **Reversal of Linked Lists**: Solve problems like reversing nodes in k-group.
-   - **Cycle Detection**: Explore Floyd's cycle detection algorithm for problems like linked list cycle detection.
-   - **Merging and Splitting**: Practice merging two sorted linked lists and handling problems related to partitioning lists.
+   - **Reversal of Linked Lists**
+   - **Cycle Detection**
+   - **Merging and Splitting**
 
 #### **4. Dynamic Programming (DP)**
-   - **Memoization and Tabulation**: Understand the difference and learn when to use each technique for problems like climbing stairs and house robber.
-   - **State Transition Diagrams**: Visualize and solve problems like longest increasing subsequence and word break.
+   - **Memoization and Tabulation**
+   - **State Transition Diagrams**
 
 #### **5. Binary Trees & Binary Search Trees**
-   - **Tree Traversal**: Learn in-order, pre-order, and post-order traversal techniques for problems like binary tree maximum path sum.
-   - **Inserting and Deleting Nodes**: Practice insertion and deletion operations in BSTs, and balance trees as needed.
-   - **Balanced Trees and AVL Trees**: Understand how tree height and balance factor affect problem-solving.
+   - **Tree Traversal**
+   - **Inserting and Deleting Nodes**
+   - **Balanced Trees and AVL Trees**
 
 #### **6. Graphs**
-   - **Breadth-First Search (BFS)**: Solve shortest path problems in unweighted graphs, like word ladder.
-   - **Depth-First Search (DFS)**: Use DFS for problems like detecting connected components in graphs and solving island counting problems.
-   - **Topological Sorting**: Handle directed acyclic graph (DAG) problems like course schedule using topological sort.
+   - **Breadth-First Search (BFS)**
+   - **Depth-First Search (DFS)**
+   - **Topological Sorting**
 
 #### **7. Backtracking**
-   - **N-Queens Problem**: Understand recursive decision-making to solve the N-Queens problem and related challenges.
-   - **Subsets and Permutations**: Learn how backtracking helps generate combinations, subsets, and permutations of elements efficiently.
-   - **Sudoku Solver**: Tackle the classic problem of solving Sudoku using backtracking.
+   - **N-Queens Problem**
+   - **Subsets and Permutations**
+   - **Sudoku Solver**
 
 #### **8. Greedy Algorithms**
-   - **Interval Scheduling**: Solve problems like non-overlapping intervals using greedy techniques.
-   - **Activity Selection Problem**: Use greedy algorithms to select the maximum number of compatible activities.
-   - **Huffman Coding**: Learn how greedy algorithms are used for optimal encoding techniques in compression problems.
+   - **Interval Scheduling**
+   - **Activity Selection Problem**
+   - **Huffman Coding**
 
 #### **9. Binary Search**
-   - **Classic Binary Search**: Master the binary search technique for problems like finding target elements in sorted arrays.
-   - **Search Variations**: Learn binary search variants for problems like finding the smallest element in a rotated sorted array.
-   - **Application in Range Queries**: Utilize binary search for range query problems and efficient searching within intervals.
+   - **Classic Binary Search**
+   - **Search Variations**
+   - **Application in Range Queries**
 
 ---
 
